@@ -1,0 +1,9 @@
+h5py>=3.10
+matplotlib>=3.8
+mne>=1.7
+numpy>=2.0
+pandas>=2.2
+PyYAML>=6.0
+scipy>=1.12
+torch>=2.3
+

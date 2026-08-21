@@ -1,0 +1,3 @@
+name: mean_sequence_readout
+description: Replace Temporal Intensity Fusion with arithmetic mean base-intensity pooling.
+

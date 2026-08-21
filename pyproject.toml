@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tide-dynamic-edl"
+version = "0.1.0"
+description = "TIDE: dynamic emotion distribution learning from EEG"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "h5py>=3.10",
+  "matplotlib>=3.8",
+  "mne>=1.7",
+  "numpy>=2.0",
+  "pandas>=2.2",
+  "PyYAML>=6.0",
+  "scipy>=1.12",
+  "torch>=2.3",
+]
+
+[tool.setuptools.packages.find]
+include = ["tide*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

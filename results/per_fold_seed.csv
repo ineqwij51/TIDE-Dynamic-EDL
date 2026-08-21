@@ -1,0 +1,1051 @@
+method,variant,metric,mean,standard_deviation,fold,seed,n_subject_trials,evaluation_split,aggregation_definition,source_commit
+TIDE,full,StaticAware_SRCC,0.1279005339494633,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1377140127828465,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.935551577317236,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9734533825460028,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2343438677792585,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.097013834475577,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1195219974197093,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.113769178973503,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.955872948554642,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2194368532609724,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1631397651101552,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.176423261333955,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.0825315744304507,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9436417596791852,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2199591516615985,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1461978703923062,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1625557077550987,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.84484152411473,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9382946870574296,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2121247687503839,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1792362317606392,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1976649386203459,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.883032176550582,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9113211034054473,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2506694033611371,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1177806062797412,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1285700771267323,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.0775400538767435,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9669486805087758,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2348151484162205,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1342169008649536,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1508225393438763,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.0572345645345984,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9333427089396454,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2201804090898585,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1228934010543453,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1373115049994792,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.1158099636411607,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9657502397507504,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2202593467563507,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1094275832818966,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1207628866734752,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.0782375345512945,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9386905770646466,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2112600639276044,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1639694694379803,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1776412186915371,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.9069869851127947,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9234648294090976,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2506969757418809,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1461122222438375,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1597035098586998,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,2.0789767020972274,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.944528469677791,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2340424974453553,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1339854863414163,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1538719674824204,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.9938161142854336,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9445783863093988,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.219631787955285,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1624572190347841,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1797118618252488,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.980868607100836,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9510111544136044,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2202842233921407,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1449927018105554,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.1607502082992026,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.971892936077661,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9281544016478924,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2118677975989916,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_SRCC,0.1802620326745276,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,StaticAware_PCC,0.192230427070817,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,TimeAugmented_Discrete_Frechet,1.942661760056628,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,ZMAE,0.9114804414126018,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,full,KL,0.2511430211216311,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+EMOD scratch,full,StaticAware_SRCC,0.0071287259934535,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0066117223069089,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.359110110198798,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.039323490509397,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2368983574054425,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.001403237605346,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0012890849476412,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.4202824890402748,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.02285434619311,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2237508655931057,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0020897138473562,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.002758734183919,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.371937473402164,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0559113499630608,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2216736917875963,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,-0.0023430551906021,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,-0.0025399811047646,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.3986753132578054,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0157035804788803,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2126379418790544,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,-0.0048110745200619,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,-0.0036199155430315,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.4884497955700406,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0165818934006137,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2519084455881594,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.003671799190464,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0049250025038221,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.3738892396972746,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0432328900727823,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2387750980522182,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0205934095621946,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0191354018562766,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.376905991476674,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0141801291186303,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2234448548209238,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0083081289432988,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0047795252443704,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.395108306165952,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0509888231321294,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2240168993188641,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0019954874518796,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0023708932672669,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.4227151310342125,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0077654341478568,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2119846476580085,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0002887266181087,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,-0.0016594037862875,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.474458471434111,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0157704301664978,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2554969098570139,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0031955074956165,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0029460156394762,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.3745496548494534,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.042859230370333,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.238045218869829,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0109837813629498,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0107265888793884,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.400626193966238,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0183442449668625,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2215312301116499,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0104475395397491,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,0.0077007015192113,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.391230776712491,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.052188684062577,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2217344669353688,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,0.0007904382486224,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,4.753679693797206e-05,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.3847659845749507,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0173774789750183,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2129326993388248,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_SRCC,-0.0053297121595407,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,StaticAware_PCC,-0.0035413142057607,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,TimeAugmented_Discrete_Frechet,2.476073000776517,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,ZMAE,1.0181325685635718,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD scratch,full,KL,0.2528013110129104,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0034671118453587,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0031731507612512,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.3693768841529472,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0420076372402658,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2377459686287078,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0098535250690444,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0105433666706896,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.393043253647985,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.018813878719896,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2229904660414705,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0055846495735344,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0046290458295927,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.371486031455792,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0555014976022432,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2233102171205129,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.0017798045237483,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.0025329138603785,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.428926357372244,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0117469566432051,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2124828320685778,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.0042437626832632,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.004828157191129,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.4962124568660142,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0166368151488228,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2519349609780068,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0030211888680831,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0046046170143131,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.361614614788224,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0431850127114006,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2389760054011694,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0057998502134854,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0073740220586717,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.4125174667158,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0205257757075534,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2212795948031345,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0092167872750763,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0093308837395835,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.3897895684289154,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0510957800240237,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2245951833231707,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.0040836876410906,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.0062428172599327,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.4153986153527907,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.015611793520065,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2119554177822634,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.0001620876483639,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.0003689729545209,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.4891381500130585,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0124505956083485,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.254709728250756,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0078188213678346,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0087439856058717,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.3677284598359507,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0391011727987636,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2397655958216571,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0065392016474409,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0073549120095295,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.4461040650615318,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.0161354820405477,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2239492726652392,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,0.0056775767567701,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,0.0059925771356398,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.381262789929179,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.052058032303801,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2219117788638124,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.0016246093224374,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.0048068632944583,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.429860481778093,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.013794373862585,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2132216037713299,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_SRCC,-0.00235501141332,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,StaticAware_PCC,-0.004346821093685,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,TimeAugmented_Discrete_Frechet,2.490274119384336,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,ZMAE,1.014691697512866,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EMOD pretrained finetune,full,KL,0.2536511142079715,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,-0.0055757613882818,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.0057663652118039,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.371715309802902,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0495947318616212,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2431733242812158,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0005320753919505,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.0003470191125425,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.3913433226058785,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.028674703758522,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.230586443387509,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0043684672422254,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0054169175133786,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.3732871354785146,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0566416999488148,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2307251068277221,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0017941877191071,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0008459528336102,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.39855468916082,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.015078876598784,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2210152179080721,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,-0.0065175300865733,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.0046131777008841,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.444637779653185,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0211863270991135,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2639518639231327,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0034340374169779,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0028165206187146,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.370302096616972,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.044193780698827,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2480196540070135,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0037109260656822,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0044799798856824,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.384862721624636,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0250658789874223,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2346699675265524,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0013402225983856,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0034886721568966,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.3760905838860484,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.058575450581851,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2298027137858672,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.002422726486632,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0015620915744789,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.401093646837876,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0166394526205942,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2226320448435351,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0038999586296241,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0036871544610023,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.4534011787751777,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0163412572045372,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2627641702198759,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,-0.0002972594582131,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.0016548574223096,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.364557555564461,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0468847129727812,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2386973133271051,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0003919769118149,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.0002253302509333,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.428889322584196,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0267542076714802,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.225517849553585,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,0.0110247331369052,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0117119735227685,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.394031539385672,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.048903641941049,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2226616426684856,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,-0.0038749695016289,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,-0.002340067178658,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.382127732913186,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.0181267279772035,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2133768298723,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_SRCC,-0.0005987047878813,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,StaticAware_PCC,0.0012824860524246,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,TimeAugmented_Discrete_Frechet,2.4366990625954004,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,ZMAE,1.01886738625661,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEGNet,full,KL,0.2553679335388076,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,-0.0037989750962471,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,-0.0037496111021552,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.655609205387402,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.022479035644948,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2365958284067541,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.001795416836917,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.004462364378148,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.732480241205867,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9929213567500352,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2225409959529243,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0066230109472284,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0043598493063265,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.7131914248392963,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.0274346669658532,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2244483669852033,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,-0.0088557847962833,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,-0.0076173947831789,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.5998985443809666,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.99931454528308,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2098116745853561,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0035512094871505,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.003939000096365,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.737369730837535,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9922180704418696,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2495589790104378,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0070680056830369,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0070372205889158,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.703234058801609,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.0126229792155552,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2440729250580701,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0015088172437153,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0051795557946161,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.7861113102528523,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9860452287689552,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2180578435185836,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0004356596538542,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0026181880137829,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.763318719799193,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.0242082470318905,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2212527379309992,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,-0.004929467862093,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,-0.0056842571439103,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.759289745425562,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9851395780699423,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2122606912210259,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0004345289921679,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0022703678505565,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.770086660954008,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9837544623281838,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2515033775980531,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0014112874081256,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0041278333162419,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.728334254720397,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.0107171961252162,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2435288007011454,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0096240204166504,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0110655078301061,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.827668629783411,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9814900952495204,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2185629470171955,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0063914819921345,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0053609684731911,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.7899018451997644,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,1.020824036652722,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2208226927442,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,-0.0001737028805126,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,-0.0035933041304424,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.7281490074722536,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9831985536922524,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2087766329567098,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_SRCC,0.0094948327664028,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,StaticAware_PCC,0.0135816222464574,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,TimeAugmented_Discrete_Frechet,2.78642891927821,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,ZMAE,0.9776822377965824,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EmT,full,KL,0.2506515630251051,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,-0.0078085864189847,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.006417114816188,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.388074849979457,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0485256310081188,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2362390501046277,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0098651555414676,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0101176469737155,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.4286996097993474,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0156790726921596,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2184790673174379,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0057506483534892,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0046624480857553,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.397916379393997,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0529038242865736,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2218200388518118,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0021180284885732,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.0003767338097625,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.423172756645896,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0091843989915714,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2131820722370244,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0024299978910643,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0038877024868363,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.459326833763715,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0168749901011194,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2532964571614624,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,-0.0017148404392134,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.0028427592492562,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.371953616822,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0457828656408348,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2338557313075736,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0041138161941395,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0034948533064358,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.396335458968599,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.025004562945894,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2188173230449272,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0051071247033186,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0051818732530474,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.401340379066297,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0541523033128248,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2189856763498322,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,-0.0054390710267009,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.0062538372360958,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.3976195069244475,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.019344642928132,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2130901357080384,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,-0.0006626324939717,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.0003830912877437,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.44915152614681,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0175304988513028,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2507424350152137,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0056672802520193,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0060185174955682,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.367418764219219,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.039062633721907,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.23419956853204,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0058003756989021,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0075513763236224,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.4037660902735234,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0207803869915335,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.218815286189579,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0007849276962143,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0009624817390095,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.392384623764803,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0553196712880069,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2212226432352936,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,0.0051252140945457,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,0.0016171713323825,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.4099289528113803,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0116463814209946,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.2121853886706743,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_SRCC,-0.006232657071699,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,StaticAware_PCC,-0.005927053486151,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,TimeAugmented_Discrete_Frechet,2.4718627374121254,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,ZMAE,1.0193926351268,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TSception,full,KL,0.254779596179496,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0036995189891217,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0033465607735514,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.3668847449969954,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.044351597617834,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2443595060860115,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0124417807715909,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0114225870397721,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.3797127114152508,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0212535989011875,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2257940289904463,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0083218106611394,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0055206833743721,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.373562876725945,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.055335789486266,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2182125006654957,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,-0.0007383206281564,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,-0.0013595529329907,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.3842761737371903,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0167960526980722,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.211466655023016,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0022072873300377,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0019140320175112,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.4417130219880017,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0177202732201287,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2564530293193227,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,-0.0003121137260568,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0006738101255535,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.345065615915297,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0451840619218566,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2345033167381066,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0042091719035006,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0046380511031674,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.383692662521302,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.026785424338066,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2188389468899602,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0047764223847018,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0041576727260353,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.379395186799117,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.054517066863392,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.221387949975506,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,-0.0067097330126801,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,-0.0069527731085782,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.3885532969591075,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.025403143915876,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.209992639920874,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,-0.0017021739200794,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0017728664536069,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.436055581449369,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0174395236914229,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2534170634305616,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0078403618183189,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0079921967229677,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.35222449077868,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0411496501475124,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2458870424055569,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0080922866995067,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0083843130209314,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.379975854332113,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.024366134995359,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2299003862784059,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,-0.0003295169803092,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0008443345651253,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.381850791216996,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0569992698793922,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2224005193974879,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0038329079018978,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,0.0051066665303029,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.3669196690675456,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0159698813096985,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2151202726400186,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_SRCC,0.0003600352071954,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,StaticAware_PCC,-0.0002095369403607,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,TimeAugmented_Discrete_Frechet,2.4442785589658294,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,ZMAE,1.0190944288574395,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+EEG Deformer,full,KL,0.2620483814783712,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0008578816515833,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0010779451682537,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.384438017915585,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0430075498454805,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2396520278303609,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0011347977653245,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,-0.0006099390599582,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.4117589131273798,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0304447577209357,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2241047215048982,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0027721742187917,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,-0.002147580842465,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.37595999979387,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0592296061004405,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2230612799050402,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0049488751789816,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0056336725243324,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.3708220284928587,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0132577283919706,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.214838535683908,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0001071933870167,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,-0.0002343827184929,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.461114194447983,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0188620989403283,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2529402771047656,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0041647529761298,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0028721268959373,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.386170464743267,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0415674468762783,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.239854845803013,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0069453474343021,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0051511468236964,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.4120704543843856,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0249896051590333,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2214218183071641,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0036474758126964,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0019619448518453,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.3780559230219107,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0546084957175583,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2278238341952025,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0038767902344547,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,-0.0038112071803801,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.382582123662157,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0175593808945549,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2117084570801563,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0007719632885089,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0008667675074864,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.458491068408543,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0185137388454986,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2524132278123307,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0037716125078775,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0045658446054803,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.3499985514242123,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0430303411093766,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.238720662312241,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0015909223680685,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,-3.284461241389507e-05,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.401667219688925,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0280934992281503,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2227844461221382,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0036427530922756,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0018981669325578,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.388732483977425,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0579566411977737,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.220469087231012,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,-0.0011552692894393,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0003435781179797,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.395229835652828,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0164465296820246,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2154380973358313,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_SRCC,0.0012666801696034,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,StaticAware_PCC,0.0010265542515982,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,TimeAugmented_Discrete_Frechet,2.4321874297539887,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,ZMAE,1.0182868776702685,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+CBraMod scratch,full,KL,0.2551255519875772,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.0078316625566217,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0094661548851123,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4235971288147726,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0312715983464684,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2371664492257309,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.007441891442606,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0078546448737738,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.451891102243564,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0131415950227098,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2209097980750268,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.001630732588776,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.000566180787052,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.468388046627905,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0461822885395269,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2217706378671851,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.0006767561014306,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0028426808614039,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4409723836129382,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0082774568536568,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2144512969867581,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0039896256628747,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.0043209011614072,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.509331709070057,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0168692559552843,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2525867122763098,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0057341671647595,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.0086150403622387,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.468071749609116,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0406825737252638,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2374593411324078,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0027526585185743,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.0037301898618614,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.484133440705523,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0188362106860869,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2184914423986713,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.0039238398861673,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0055210233748398,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.416927276275288,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0476079354497454,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2205987749085587,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0067753457191231,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.006518755432602,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4920661119784397,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.004900271095762,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2122299017363398,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0027382627633008,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.0045708444987921,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.5467297957883543,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0074623776521872,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2534931788511517,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-6.193057050698899e-05,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0020564035565595,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.418405427807635,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0382822739381268,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2369001778356437,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.00195409999672,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.0023017293302978,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4740681443239936,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0189731533401505,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2215886875912259,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.0026557702335844,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0025544742432819,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4003227108647773,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0540864387690256,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2215566336864458,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,-0.0034106858365676,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,-0.003244569871176,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4544382528470776,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.013206216141784,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2122878634988061,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_SRCC,0.0028785754625923,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,StaticAware_PCC,0.0039739566491462,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,TimeAugmented_Discrete_Frechet,2.4754856396933604,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,ZMAE,1.0080270535007374,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+HeLo task adapted,full,KL,0.2544794252934283,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,9455b7b67cdf3829316a276deae37f6832efd85f
+TIDE,no_context,StaticAware_SRCC,-0.0009230959102009,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,-0.0010448871223106,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.4924877300127166,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.0292272535390223,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2357120293099082,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0149580706344963,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0175872113284994,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.519892757993166,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9924492596745642,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2199863920074455,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0062281283838832,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0064268520156233,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.5303545579213287,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.0355941725938786,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2208124161978607,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,-0.0040713235241985,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,-0.0018333668062963,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.5674831750441136,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9917091660898278,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2128886278687349,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0087571627304986,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0093802983049307,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.5840819974234503,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9916041783594872,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2507365786010641,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0022892376616021,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0071908267820616,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.441636655351427,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.027118955328416,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.235859412773955,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0036608791336772,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0057892153706058,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.4935844155333773,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.008906377238859,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2207275084310206,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0158695200630487,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0215694757772006,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.51374402416129,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.0299342818596111,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2206827958940223,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,-0.0014449534690693,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0014743351861178,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.547360183603492,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.990250402021004,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2113975904795722,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0041956387602073,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0069343906833691,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.540971077056948,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.0034495223313415,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2517267245974579,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0149028422188922,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0150264315391564,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.422637244238198,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.022280020999492,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2374236488033757,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0132853024624781,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0181572720753459,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.4763847446291143,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9996453011782936,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2204485341018299,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.0061042335473348,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0059453343719063,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.5003606717308147,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,1.039043998329127,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2215548247926964,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.001209622454083,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0023758579616847,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.497417072975836,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9949261943015976,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2118793241170933,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_SRCC,0.006599802698821,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,StaticAware_PCC,0.0098978706067043,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,TimeAugmented_Discrete_Frechet,2.603812582565818,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,ZMAE,0.9919091046029808,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_context,KL,0.2508736519031448,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1131961718621769,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1316078478549393,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,1.976657913376522,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9752344907708116,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2396224998777724,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1173984649254172,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1395352089445247,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.1679062640099844,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.945010287224825,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2251725832856558,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1218655654907631,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.140121155851113,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.050399946056732,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9773018543861206,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2237742817922373,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1238389414341626,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1445538440968814,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,1.8928048482372617,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9490026703323512,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2198550520518302,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1462882862188763,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1706084289424643,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,1.9437517280105796,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9290669256310508,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2588259374425557,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1334684829743939,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1526083134077192,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.047012166421201,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9549810022542256,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2378351401148187,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1246458844485958,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1432670989366907,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.1930317844290093,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.939285956975932,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2254678131012712,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1583102105762148,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1710973810479802,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.204061426244276,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9423394591906636,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2263787429703717,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1195892309938283,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1375418093521987,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.040250612669605,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9331042926990852,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2144818630469263,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1701060426330267,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1907204144978291,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.117431902959631,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.903955229647967,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2549547477307425,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1168848984837443,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1388794933572145,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.060028539082119,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9648253016007802,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2409091219511519,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1208354813183457,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.139366450024467,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,1.98806854872056,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9543721167248164,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2258046505516286,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1212694891488535,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1378086301460084,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.132685938377845,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9712012584414342,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.2248705647619254,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.0943151882468454,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1079666101987248,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.005508431135359,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9667378744224068,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.217678194500757,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_SRCC,0.1511748358269141,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,StaticAware_PCC,0.1736630257282218,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,TimeAugmented_Discrete_Frechet,2.0748216574606277,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,ZMAE,0.9195819445543688,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_distribution_decoder,KL,0.257108813713141,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0002446644020196,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0007961746358619,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.49005983966634,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.027384100851812,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2346452249073703,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0031384588550986,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0029984102365018,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.516380954584434,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0028621605417916,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2208595449037735,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0064213126097737,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0072764684064519,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5195569976105987,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0345963270801275,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2217058946733095,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0109566372787522,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.010205686990177,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5303471249104903,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,0.980240581996952,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2123006537510497,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.008173894463323,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0097855665452346,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5844430740651783,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.003059333091671,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2528232809360893,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0097635849257896,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.01060696933909,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.503698595032094,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0327947371787105,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.234644071469955,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0099341479662752,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0116754690024115,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.522905018318567,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0189221537015938,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.220221432189212,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0116500137602992,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0097519846093144,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.4673881127385853,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0397100130277517,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2215371278272322,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0079977608179272,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.006652269487653,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5602440332837824,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0006373891973088,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2111605667477491,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0033266024953896,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0041755415524594,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5626635190556826,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0081290030336147,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2509494283271359,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0043285348319695,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0068420591358766,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.536600932753002,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.025936497547962,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2344772362294426,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0002531705284046,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0015414860361256,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.541366533781698,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0127105687034257,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2203321364287543,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0045122521116144,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0042155544948266,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5060951390689445,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,1.0358383658563477,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2206852893474344,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,-0.0058136235369924,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,-0.0028905081962949,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.5166604399973846,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,0.9949905711248084,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.211369864174243,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_SRCC,0.0119076204090733,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,StaticAware_PCC,0.0137172805626092,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,TimeAugmented_Discrete_Frechet,2.553875397083384,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,ZMAE,0.99003233168894,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_partial_emotion_learning,KL,0.2531872309545592,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1346639480164052,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.145065586894946,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.1575226982009985,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.948910841019402,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2344145738003423,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1356868194070984,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1547537052944924,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.108669357384949,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9393254802363676,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2195478027664156,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1415388521058182,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.150604825194704,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.0296925901639997,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9638478747259888,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2214494103388337,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1401070618987317,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.155407056292005,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,1.854755204484432,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.943734428336646,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2117820873185552,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1710577738760388,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1846938755001932,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,1.9877481868619045,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9120528366071814,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2516686385641917,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1329245694746174,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1459960602340509,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.040417247547081,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9594674522920535,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2338367759797612,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1377105657531666,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1551808585728629,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.0395173555807826,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9357687541194842,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2200747955144327,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.132050478720796,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1457406773449751,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.077130245209459,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.968047377166385,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2206845605052352,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.105689928706613,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1158022258758847,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.079041560825535,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9592895933766636,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2107771415156095,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1248301162472521,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1314576954195117,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.0768798536155977,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.951911276728984,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2513614069662964,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1289610435450287,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1421172554291022,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.0483478530811845,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9604839355784468,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2346062891878435,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1372464495275125,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1564863529551861,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.1126751359785083,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9376427541840828,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2195660665595746,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.166621207912528,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1798184282026789,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,1.9947422806322632,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9488572645291422,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.220490262482004,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1471289864424547,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1603873553498013,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.102700050725771,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9191342920318192,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2118025634946355,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_SRCC,0.1720255231824236,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,StaticAware_PCC,0.1921239400751026,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,TimeAugmented_Discrete_Frechet,2.0163673241078697,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,ZMAE,0.9062473430625744,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,no_adaptive_graph,KL,0.2509403199585158,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1318234705446272,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1395098284604995,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.083359863831443,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9565729936806542,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2339821577623708,,0,17,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.134395736740096,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1539342138534772,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.010793053679945,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9434594946091036,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2195569379194109,,1,17,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1641678191430637,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1803079405654015,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.093994083597098,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9422761888911731,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2202021605966874,,2,17,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.145357952091668,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1617252663213228,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.8644554631683257,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.932461378947358,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2125468840443423,,3,17,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.177697599538425,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.195270022535588,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.8437468860192208,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9153336292234846,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2514436980056062,,4,17,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1133904902101743,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1267332072749882,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.1501818600334204,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9562935248416964,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2360769940666359,,0,42,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1355083136736379,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1508997831672168,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.03147204320429,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9336512281649554,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2203009290529586,,1,42,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1345469421905759,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1462894266862611,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.0408323736260288,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9718813163958387,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2202282490802186,,2,42,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1445860501882916,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1603449028388931,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.8728931279507648,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.93829494110515,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2119890153167843,,3,42,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1660288012012039,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1805163032208049,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.8359718920450891,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9282836250485382,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2505725440220075,,4,42,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1488945212748019,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1598602222239572,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.972681469602569,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9526174001259116,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2348128707097365,,0,97,228,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1357418102277515,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1531973940149066,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.9979033191117963,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9444209652546756,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2195564662474904,,1,97,227,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1438405811731172,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1572142138233614,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.0396785385689173,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.95973501585806,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2207795051304916,,2,97,215,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1468836812669531,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1615997491036121,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,1.947191388868818,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.9289243973976282,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2115124632827489,,3,97,186,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_SRCC,0.1788712878585324,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,StaticAware_PCC,0.1900819863646891,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,TimeAugmented_Discrete_Frechet,2.1002509420689788,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,ZMAE,0.8946475913586078,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976
+TIDE,mean_sequence_readout,KL,0.2512174145035404,,4,97,201,outer_test,window -> subject-trial arithmetic mean -> fold mean,e7ad79fe6ad5b5884ccb5d60d35891ef7d308976

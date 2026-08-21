@@ -1,0 +1,42 @@
+# Private or generated data
+data/
+outputs/
+third_party/sources/
+results/evaluation/
+results/tables/
+results/figures/
+
+# Checkpoints, arrays, and EEG containers
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npz
+*.npy
+*.parquet
+*.h5
+*.hdf5
+*.mat
+*.edf
+*.set
+*.fdt
+
+# Environments, credentials, and caches
+.env
+.env.*
+!.env.example
+credentials*
+secrets*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+

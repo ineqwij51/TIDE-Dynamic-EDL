@@ -1,0 +1,45 @@
+external_root: third_party/sources
+models:
+  emod:
+    display_name: EMOD pretrained finetune
+    repository: https://github.com/cyn4396/EMOD.git
+    revision: 3a219f51ba4f90b9e2d22824cfb90dde77a9875c
+    directory: EMOD
+    required_files: [model/EMOD.py, model/AxialTransformer.py, Pretraining_weights/EMOD_pretrained.ckpt]
+  eegnet:
+    display_name: EEGNet
+    repository: https://github.com/aliasvishnu/EEGNet.git
+    revision: cccd2f87de8c6b500fd1bffde034ee674aa4966a
+    directory: EEGNet
+    required_files: [EEGNet-PyTorch.ipynb]
+  emt:
+    display_name: EmT
+    repository: https://github.com/yi-ding-cs/EmT.git
+    revision: 3ea05dc90a915182ab3407191c287456f912316d
+    directory: EmT
+    required_files: [EmT.py]
+  tsception:
+    display_name: TSception
+    repository: https://github.com/yi-ding-cs/TSception.git
+    revision: 9efd666b618d006e32e6da1d30dbc79b1d190604
+    directory: TSception
+    required_files: [code/networks.py]
+  eeg_deformer:
+    display_name: EEG Deformer
+    repository: https://github.com/yi-ding-cs/EEG-Deformer.git
+    revision: 47df1c4d8ce375ae21117f84e81e969041d907f6
+    directory: EEG-Deformer
+    required_files: [models/EEGDeformer.py]
+  cbramod:
+    display_name: CBraMod scratch
+    repository: https://github.com/wjq-learning/CBraMod.git
+    revision: 0ff6be918985689e7df679bc731ffb70e6c6224f
+    directory: CBraMod
+    required_files: [models/cbramod.py, models/criss_cross_transformer.py]
+  helo:
+    display_name: HeLo task adapted
+    repository: https://github.com/kaio-99/HeLo
+    revision: 396e307f83ed09ad5ed54be218b46dbb389a65e9
+    directory: HeLo
+    required_files: [models/model.py, models/transformer_layers.py]
+

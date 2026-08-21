@@ -1,0 +1,3 @@
+name: no_partial_emotion_learning
+description: Set the target-versus-rest partial-emotion bridge weight to zero.
+

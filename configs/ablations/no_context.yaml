@@ -1,0 +1,3 @@
+name: no_context
+description: Bypass the causal context encoder while retaining the observation path.
+

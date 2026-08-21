@@ -1,0 +1,3 @@
+name: no_adaptive_graph
+description: Bypass adaptive electrode message passing while retaining electrode attention.
+
